@@ -4,6 +4,7 @@ This is a microservice that translates English text to Arabic using a Groq-hoste
 Features: 
 
 - Text Translation: Translates English text to Arabic using the Groq-hosted AI model.
+- Drop in Ollama Replacement: Use Ollama instead for Groq for an open-source, locally hosted model (WIP)
 - Dockerized: Easily deployable using Docker. (WIP
 - Scalable: Suitable for use in a microservices architecture, supporting Kafka or REST API for communication. (WIP)
 - Model: Currently using Llama 80B for high-performance translation. (WIP)
