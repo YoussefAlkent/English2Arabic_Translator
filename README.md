@@ -1,4 +1,4 @@
-### English to Arabic Translator Microservice
+# English to Arabic Translator Microservice
 
 This is a microservice that translates English text to Arabic using a Groq-hosted AI model. Currently, the Llama 80B model is being used for its performance, though the final model may vary. The service is designed to be deployed in a Docker container for easy integration into larger microservices architectures.
 Features: 
